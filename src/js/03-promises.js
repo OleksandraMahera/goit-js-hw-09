@@ -39,4 +39,10 @@ form.addEventListener("submit", function (event) {
 
     currentDelay += step;
   }
+  form.reset();
 });
+
+
+
+
+
